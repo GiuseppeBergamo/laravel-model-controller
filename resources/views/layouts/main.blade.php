@@ -8,8 +8,8 @@
     <title>Document</title>
 </head>
 <body>
-
-    <div class="container my-5">
+    <h1 class="text-center">Movies</h1>
+    <div class="container my-5 d-flex flex-wrap">
         @yield('main-content')
     </div>
 </body>
